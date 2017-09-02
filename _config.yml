@@ -1,5 +1,5 @@
 # Lang
-language: en
+language: "en"
 
 # Dark Mode
 dark: false
@@ -7,8 +7,9 @@ dark: false
 # Header
 menu:
   Home: /
-  Archives: /archives
-  About: /about
+  Blog: /Blog
+  About: /About
+
 rss: /atom.xml
 
 # Content
@@ -16,8 +17,8 @@ fancybox: true
 
 
 # Miscellaneous
-google_analytics:
-favicon: /favicon.ico
+google_analytics: UA-54529135-2
+favicon: /favicon.png
 twitter:
 google_plus:
 fb_admins:
@@ -25,16 +26,23 @@ fb_app_id:
 
 
 # Profile
-nickname: NickName
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae [libero pharetra](http://hexo.io) adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius. Aliquam sollicitudin risus a porta aliquam.
+nickname: "I Know Nothing"
+description: "Mehran Baghi"
 links:
-  Blog: /archives
-  GitHub: https://github.com/
-  Instagram: http://instagram.com/
-  Facebook: http://facebook.com/
-  Twitter : http://twitter.com/
-
+  Blog: /Blog
+  About: /About
 
 # Info
-archive_footer_content: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Archive
-post_footer_content: ipsum dolor sit amet, **consectetur adipiscing elit.** Fusce eget urna vitae velit *eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque* penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Post
+archive_footer_content: 'Except As Otherwise Noted, The Content Of This Page Is Licensed Under The
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA 4.0 License</a>
+
+And Code Samples Are Licensed Under The <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" rel="license">GPL 3.0 License</a>
+
+Powered By <a href="https://hexo.io/">Hexo</a> Theme: <a href="https://github.com/geekplux/hexo-theme-typing">Typing</a>'
+
+post_footer_content: 'Except As Otherwise Noted, The Content Of This Page Is Licensed Under The
+<a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license">CC-BY-SA 4.0 License</a>
+
+And Code Samples Are Licensed Under The <a href="https://www.gnu.org/licenses/gpl-3.0.en.html" rel="license">GPL 3.0 License</a>
+
+Powered By <a href="https://hexo.io/">Hexo</a> Theme: <a href="https://github.com/geekplux/hexo-theme-typing">Typing</a>'
