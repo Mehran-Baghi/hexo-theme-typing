@@ -71,9 +71,9 @@ em {
 }
 
 .Improve {
-    font-size:32px;
-    float:right;
-    color:silver;
+    font-size: 32px;
+    float: right;
+    color: $grey;
 }
 
 .footer {
