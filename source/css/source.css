@@ -72,10 +72,8 @@ em {
 
 .Improve {
     float: right;
-    a:link {
-	font-size: 32px;
-	color: $grey;
-    }
+    font-size: 32px;
+    color: $grey;
 }
 
 .footer {
