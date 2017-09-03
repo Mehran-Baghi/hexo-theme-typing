@@ -70,6 +70,12 @@ em {
   font-weight: lighter;
 }
 
+.Improve {
+    font-size:32px;
+    float:right;
+    color:silver;
+}
+
 .footer {
   box-sizing: border-box;
 }
